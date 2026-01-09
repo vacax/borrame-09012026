@@ -5,3 +5,4 @@
 - Rafael Ramirez, id: 10149810
 - Miguel Rodríguez, id: 10154714
 - Charls Ventura, id: 10149252
+- Jose Alberto Hidalgo, id: 10155858
