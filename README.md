@@ -1,3 +1,3 @@
 # Hola Mundo en Git :-D
 
-- Carlos Camacho, id: 20011136
+- Miguel Rodríguez, id: 10154714
